@@ -1,0 +1,65 @@
+{
+    "jokes": [
+      {
+        "id": 1,
+        "category": "Programming",
+        "type": "single",
+        "joke": "Why do programmers prefer dark mode? Because light attracts bugs!"
+      },
+      {
+        "id": 2,
+        "category": "Programming",
+        "type": "single",
+        "joke": "How many programmers does it take to change a light bulb? None, that's a hardware problem."
+      },
+      {
+        "id": 3,
+        "category": "Programming",
+        "type": "single",
+        "joke": "Why do Java developers wear glasses? Because they don't see sharp."
+      },
+      {
+        "id": 4,
+        "category": "Puns",
+        "type": "single",
+        "joke": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "id": 5,
+        "category": "Puns",
+        "type": "single",
+        "joke": "Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them."
+      },
+      {
+        "id": 6,
+        "category": "Programming",
+        "type": "single",
+        "joke": "A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"
+      },
+      {
+        "id": 7,
+        "category": "Programming",
+        "type": "single",
+        "joke": "Why do Python developers have low self-esteem? Because they constantly compare themselves to JavaScript developers."
+      },
+      {
+        "id": 8,
+        "category": "Programming",
+        "type": "single",
+        "joke": "There are 10 types of people in the world: those who understand binary, and those who don't."
+      },
+      {
+        "id": 9,
+        "category": "Puns",
+        "type": "single",
+        "joke": "I would tell you a construction joke, but I’m still working on it."
+      },
+      {
+        "id": 10,
+        "category": "Puns",
+        "type": "single",
+        "joke": "I’m on a seafood diet. I see food and I eat it."
+      }
+    ]
+  }
+  
