@@ -5,7 +5,7 @@ const App = () => {
 
   const serverDetails = async () => {
     try {
-      const response = await fetch("http://localhost:3000/jokes");
+      const response = await fetch("/api/jokes");
       const data = await response.json();
       setState(data);
     } catch (error) {
